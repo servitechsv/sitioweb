@@ -35,11 +35,11 @@
         <div class="container">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://mobiri.se">
+                    <a href="https://servitechsv.github.io/sitioweb/page1.html">
                         <img src="assets/images/mbr-121x81.jpg" alt="Mobirise" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7" href="https://mobiri.se">Servitech Sv</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7" href="https://servitechsv.github.io/sitioweb/page1.html">Servitech Sv</a></span>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
